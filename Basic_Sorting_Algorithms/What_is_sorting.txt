@@ -1,0 +1,4 @@
+Sorting in a data structure is the process of organizing data elements in a specific order, either 
+increasing or decreasing, so that it can be analyzed more effectively and searched for more quickly. 
+For example, you might sort sales data by month to create a graph of sales performance, or sort a list 
+of words alphabetically or by length. 
